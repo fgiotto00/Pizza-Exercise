@@ -1,0 +1,6 @@
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Entities\bin\Debug\PizzaExercise.Entities.dll
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Entities\bin\Debug\PizzaExercise.Entities.pdb
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Entities\obj\Debug\PizzaExercise.Entities.csprojResolveAssemblyReference.cache
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Entities\obj\Debug\PizzaExercise.Entities.csproj.CoreCompileInputs.cache
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Entities\obj\Debug\PizzaExercise.Entities.dll
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Entities\obj\Debug\PizzaExercise.Entities.pdb

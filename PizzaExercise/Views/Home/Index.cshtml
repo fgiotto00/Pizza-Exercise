@@ -1,0 +1,52 @@
+﻿@model PizzaExercise.Models.PizzaIndexViewModel
+
+@{
+    ViewBag.Title = "Pizza Exercise Report";
+    int i = 1;
+}
+
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-md-1"><a href="https://www.linkedin.com/in/francisco-giotto-b314256/"><img class="pic" height="64" width="64" src="https://goo.gl/vTacZQ"></a></div><div class="col-md-11"><h2>Francisco Giotto</h2></div>
+    </div>
+
+    <p class="lead">
+        I am senior .NET, C# and JavaScript enterprise architect with over 11 years of experience designing and leading teams creating enterprise-level software applications.
+        My main areas of focus are multi-client ASP.NET MVC and WEB API applications using C#, Entity Framework and Microsoft SQL Server. In addition to .NET I also have plenty of experience in CRM/ERP development with Netsuite and Salesforce.
+        I believe in designing using best practices and modern methodologies and architectural patterns while improving performance, driving growth and solving business problems.
+    </p>
+    <p><a href="https://www.linkedin.com/in/francisco-giotto-b314256/" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Toppings</th>
+            <th scope="col">Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Result != null)
+        {
+            foreach (var item in Model.Result)
+            {
+                <tr>
+                    <th scope="row">@i</th>
+                    <td>
+                        @foreach (var topping in item.Toppings)
+                        {
+                            <div>@topping</div>
+                        }
+                    </td>
+                    <td>@item.Count</td>
+                </tr>
+                i++;
+            }
+        }
+        else
+        {
+            <tr><td>No Results Found</td></tr>
+        }
+    </tbody>
+</table>

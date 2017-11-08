@@ -1,0 +1,12 @@
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\obj\Debug\PizzaExercise.Business.csprojResolveAssemblyReference.cache
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\obj\Debug\PizzaExercise.Business.csproj.CoreCompileInputs.cache
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\bin\Debug\PizzaExercise.Business.dll
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\bin\Debug\PizzaExercise.Business.pdb
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\bin\Debug\PizzaExercise.Data.dll
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\bin\Debug\PizzaExercise.Entities.dll
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\bin\Debug\PizzaExercise.Data.pdb
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\bin\Debug\PizzaExercise.Entities.pdb
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\obj\Debug\PizzaExercise.Business.dll
+C:\Users\francisco.giotto\documents\visual studio 2017\Projects\PizzaExercise\PizzaExercise.Business\obj\Debug\PizzaExercise.Business.pdb

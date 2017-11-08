@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaExercise MVC", "PizzaExercise\PizzaExercise MVC.csproj", "{56AAECE1-225A-46BB-A820-3FBCE9813C27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{21187558-8ED9-4773-AAA3-CA056B2666DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{A62987E0-B634-4D62-96AE-EC5CB4E5C32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaExercise.Data", "PizzaExercise.Data\PizzaExercise.Data.csproj", "{A3E06982-D187-4891-A3F5-C37E5C92BFCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{14E1640C-549F-4AD6-A2BD-164C3FB0A2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaExercise.Entities", "PizzaExercise.Entities\PizzaExercise.Entities.csproj", "{BCE0AA04-1DA6-4E35-B82A-02731D9D274D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaExercise.Business", "PizzaExercise.Business\PizzaExercise.Business.csproj", "{93CE3C7B-3470-4781-ADBE-9DD2DF4FAC94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{1A882456-BD54-44E3-B242-993A66E55AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AAECE1-225A-46BB-A820-3FBCE9813C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AAECE1-225A-46BB-A820-3FBCE9813C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AAECE1-225A-46BB-A820-3FBCE9813C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AAECE1-225A-46BB-A820-3FBCE9813C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E06982-D187-4891-A3F5-C37E5C92BFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E06982-D187-4891-A3F5-C37E5C92BFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E06982-D187-4891-A3F5-C37E5C92BFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E06982-D187-4891-A3F5-C37E5C92BFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE0AA04-1DA6-4E35-B82A-02731D9D274D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE0AA04-1DA6-4E35-B82A-02731D9D274D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE0AA04-1DA6-4E35-B82A-02731D9D274D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE0AA04-1DA6-4E35-B82A-02731D9D274D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CE3C7B-3470-4781-ADBE-9DD2DF4FAC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CE3C7B-3470-4781-ADBE-9DD2DF4FAC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CE3C7B-3470-4781-ADBE-9DD2DF4FAC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CE3C7B-3470-4781-ADBE-9DD2DF4FAC94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56AAECE1-225A-46BB-A820-3FBCE9813C27} = {1A882456-BD54-44E3-B242-993A66E55AA0}
+		{A3E06982-D187-4891-A3F5-C37E5C92BFCE} = {A62987E0-B634-4D62-96AE-EC5CB4E5C32D}
+		{BCE0AA04-1DA6-4E35-B82A-02731D9D274D} = {14E1640C-549F-4AD6-A2BD-164C3FB0A2B8}
+		{93CE3C7B-3470-4781-ADBE-9DD2DF4FAC94} = {21187558-8ED9-4773-AAA3-CA056B2666DE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1D666CA-2EE3-4F9F-AF96-3EEEF5731766}
+	EndGlobalSection
+EndGlobal
